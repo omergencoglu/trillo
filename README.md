@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="https://omergencoglu.github.io/natours/" target="_blank">Trillo</a>
+  <a href="https://omergencoglu.github.io/trillo/" target="_blank">Trillo</a>
 </h2>
 <br/>
 
