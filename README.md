@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-This is a CSS/Sass practice project.
+This is a CSS/Sass grid practice project.
 
 ## How to run
 
